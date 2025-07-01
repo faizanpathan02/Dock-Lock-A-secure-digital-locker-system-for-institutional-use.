@@ -1,4 +1,4 @@
-# DLocker - A Digital Locker for Institutional Level 
+# Dock-Lock : A Digital Locker for Institutional Level 
 DLocker is a Digital Locker for Students to ease out carrying documents for offical needs and other purposes completely. Dlocker provides the safe, secure service to store, verify and share the documents all from same paltform.
 
 ![GitHub](https://img.shields.io/github/license/mohitkhedkar/DLocker?style=for-the-badge&color=orange)
